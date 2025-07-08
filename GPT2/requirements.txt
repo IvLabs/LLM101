@@ -1,0 +1,7 @@
+uv 
+torch 
+pandas
+tiktoken
+mlflow
+wandb
+tqdm
